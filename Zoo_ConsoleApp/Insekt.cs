@@ -1,8 +1,12 @@
 ﻿using System;
 
-public class Class1
+namespace Zoo_ConsoleApp
 {
-	public Class1()
+
+	public class Insekt
 	{
+		public Insekt()
+		{
+		}
 	}
 }
